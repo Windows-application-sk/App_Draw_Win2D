@@ -1,7 +1,7 @@
 # App_Draw_Win2D
 
 Win2Dを使用し、四角形などを描画するサンプルプログラムです。
-
+<img width="958" alt="App_Draw_Win2D" src="https://github.com/user-attachments/assets/11053bb3-22d9-4ca3-ba53-7fb97097190f" />
 
 ## Win2D
 事前にWin2Dをインストールします。
